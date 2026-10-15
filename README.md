@@ -1,4 +1,4 @@
 # First-Repository
 This is my First Git Repository
 <br>
-Personal Details: I'm Saif Anasari. I'm  from Deoria, Uttar Pradesh Currently I'm pursuing B.Tech in Electrical Engineering From BRBBA REC Pratapgarh (U.P.)  
+Personal Details: I'm Saif Anasari. I'm  from Deoria, Uttar Pradesh Currently I'm pursuing B.Tech in Electrical Engineering From BRBBA REC Pratapgarh Uttar pradesh
